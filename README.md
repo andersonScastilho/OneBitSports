@@ -10,7 +10,7 @@
 
 ### Tópicos
 
-:small_blue_diamond: [Descrição do projeto](#Este projeto é uma landing page desenvolvido com html e css para praticar flex-box e grid)
+:small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
 :small_blue_diamond: [Funcionalidades](#funcionalidades)
 
@@ -27,7 +27,7 @@ Insira os tópicos do README em links para facilitar a navegação do leitor
 ## Descrição do projeto
 
 <p align="justify">
-  Descrição breve do projeto compondo um paragrafo ou dois. 
+ Este projeto é uma landing page,desenvolvido com html e css para praticar flex-box e grid
 </p>
 
 ## Funcionalidades
