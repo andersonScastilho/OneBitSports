@@ -22,6 +22,6 @@
  Este projeto é uma landing page,desenvolvido com html e css para praticar flex-box e grid
 </p>
 
-## Layout ou Deploy da Aplicação :dash:
+##Deploy da Aplicação :dash:
 
 > Link do deploy da aplicação. https://andersonscastilho.github.io/OneBitSports/
